@@ -19,3 +19,9 @@ If you'd like to contribute to the web site, there are a couple of options.
   3. [Play some funky beats](https://www.youtube.com/watch?v=ns3SAjqMGU0&index=10&list=PL7-NrfuNPRyyClJ3M_suEWEzIVJWr6HAA), 
      and get to coding.
   
+# How does it work?
+
+When changes are committed to the `master` branch, a [webhook](https://developer.github.com/webhooks/) 
+on this repo notifies my web server.  My web server issues a `git pull` on 
+[chaos.thriii.com](http://chaos.thriii.com/)'s [DocumentRoot](http://httpd.apache.org/docs/2.2/mod/core.html#documentroot), 
+and _voila_, the web site is updated.
