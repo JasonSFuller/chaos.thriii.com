@@ -6,10 +6,11 @@ If you'd like to contribute to the web site, there are a couple of options.
 
   1. [Create a Github account](https://github.com/join).
   2. [Join us on Slack](https://legacyofchaoshome.slack.com/).
-  3. Post your Github username on #website_of_chaos, and let us know you'd like to contribute.
-  4. After getting approval from an officer, we'll add you as a contributor.
+  3. Post your Github username on `#website_of_chaos`, and let us know you'd like to contribute.
+     You should probably mention `@armandz` and `@kungfugrip` to get our attention.
+  4. After getting approval from `@armandz`, we'll add you as a contributor.
   5. You can use Github to update files in the repo directly, no knowledge of `git` 
-     required! ...but you **really** should [learn the basics](https://guides.github.com/).
+     required! ...but you **really** should [learn the basics](https://guides.github.com/activities/hello-world/).
 
 ## If you're comfortable with Github
 
