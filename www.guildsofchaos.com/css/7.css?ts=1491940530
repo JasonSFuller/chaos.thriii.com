@@ -1,0 +1,75 @@
+
+#wb_header { background: transparent none repeat scroll left top; height: 270px; }
+#wb_main { background: transparent url("../gallery_gen/50be9cf9dba49f1790649596172ecae8.jpg") repeat scroll left top; height: 2430px; }
+#wb_footer { background: transparent none repeat-x scroll left top; height: 31px; }
+body { background: transparent url("../gallery_gen/26b6ce0884cb13d4b252a62cafcb9bdf.jpg") repeat scroll center top; }
+.wb_sbg { background: transparent none repeat-x scroll left top; }
+body, .wb_sbg { min-width: 320px; min-height: 2731px; }
+.root { width: 320px; height: 2731px; overflow: hidden; min-height: 2731px; }
+#wb_element_instance32 .btn-collapser { display: inline-block; margin-top: 15.5px; background-color: #363536; border-color: #ffffff; }
+#wb_element_instance32 .btn-collapser > .icon-bar { background-color: #ffffff; }
+#wb_element_instance32 .btn-collapser:hover { background-color: #16aa9e; border-color: #ffffff; }
+#wb_element_instance32 .btn-collapser:hover > .icon-bar { background-color: #ffffff; }
+#wb_element_instance32 { left: 145px; top: 200px; min-width: 160px; width: 160px; min-height: 24px; height: 24px; display: block; z-index: 318; }
+#wb_element_instance32 ul { background: #363536 none repeat scroll left top; border: 1px none #000000; }
+#wb_element_instance32 > ul { display: none; }
+#wb_element_instance32.collapse-expanded > ul { display: block; float: none; height: auto; overflow: hidden; overflow-y: auto; }
+#wb_element_instance32.collapse-expanded > ul > li { display: block; }
+#wb_element_instance32.collapse-expanded > ul > li > ul { position: static; padding-left: 15px; }
+#wb_element_instance32.collapse-expanded > ul > li.active > ul { display: block!important; }
+#wb_element_instance32.collapse-expanded > ul > li:hover > ul { display: none; }
+#wb_element_instance32, #wb_element_instance32 ul { text-align: left; }
+#wb_element_instance32 ul ul { background: #2e2e2e none repeat scroll left top; }
+#wb_element_instance32 li { margin: 0px 0px 0px 0px; }
+#wb_element_instance32 li a { text-transform: none; border: 0px none #000000; padding: 18px 20px 18px 20px; font: normal normal 20px 'PT Sans',sans-serif; text-decoration: none; color: #ffffff; line-height: 22px; background: transparent none repeat scroll right top; }
+#wb_element_instance32 li:hover > a, #wb_element_instance32 li:focus > a { border: 0px none #000000; font: normal normal 20px 'PT Sans',sans-serif; text-decoration: none; color: #ffffff; line-height: 22px; background: #16aa9e none no-repeat scroll left top; }
+#wb_element_instance32 li.active > a { border: 0px none #000000; font: normal normal 20px 'PT Sans',sans-serif; text-decoration: none; color: #ffffff; line-height: 22px; background: #16aa9e none repeat scroll left top; }
+#wb_element_instance33 p:last-child { margin-bottom: 0; }
+#wb_element_instance33 { left: 20px; top: 190px; min-width: 120px; width: 120px; min-height: 48px; height: 48px; display: block; z-index: 206; }
+#wb_element_instance34 { left: 50px; top: 10px; min-width: 200px; width: 200px; min-height: 160px; height: 160px; display: block; z-index: 326; }
+#wb_element_instance34 img { width: 200px; height: 160px; display: block; position: static; left: 0px; top: 0px; }
+#wb_element_instance35 p:last-child { margin-bottom: 0; }
+#wb_element_instance35 { left: 10px; top: 0px; min-width: 130px; width: 130px; min-height: 36px; height: 36px; display: block; z-index: 331; }
+#wb_element_instance36 { left: 0px; top: 0px; min-width: 320px; width: 320px; min-height: 2430px; height: 2430px; display: block; z-index: 86; }
+#wb_element_instance36 > div.wb_shp { background: #16aa9e; border: 0px solid #C0C0C0; opacity: 0.6; border-radius: 0px 0px 0px 0px; -moz-border-radius: 0px 0px 0px 0px; -webkit-border-radius: 0px 0px 0px 0px; width: 320px; height: 2430px; }
+#wb_element_instance37 p:last-child { margin-bottom: 0; }
+#wb_element_instance37 { left: 10px; top: 16px; min-width: 300px; width: 300px; min-height: 2388px; height: 2388px; display: block; z-index: 145; }
+#wb_element_instance38 > .wb-elm-line { margin: 1px 0 0 0; width: 100%; height: 1px; left: 0; top: 50%; border-top: 8px double #ffffff;; }
+#wb_element_instance38 { left: 10px; top: 2097px; min-width: 300px; width: 300px; min-height: 60px; height: 60px; display: block; z-index: 148; }
+#wb_element_instance39 > .wb-elm-line { margin: 1px 0 0 0; width: 100%; height: 1px; left: 0; top: 50%; border-top: 8px double #ffffff;; }
+#wb_element_instance39 { left: 10px; top: 1113px; min-width: 300px; width: 300px; min-height: 100px; height: 100px; display: block; z-index: 149; }
+#wb_element_instance40 > .wb-elm-line { margin: 1px 0 0 0; width: 100%; height: 1px; left: 0; top: 50%; border-top: 8px double #ffffff;; }
+#wb_element_instance40 { left: 10px; top: 188px; min-width: 300px; width: 300px; min-height: 100px; height: 100px; display: block; z-index: 150; }
+#wb_element_instance41 { left: 0px; top: 1490px; display: block; z-index: 9000; }
+#wb_element_instance42 { left: 0px; top: 51px; display: block; z-index: 9999; }
+
+
+@media (min-width: 768px) {
+}
+
+@media (min-width: 992px) {
+	#wb_header { height: 270px; }
+	#wb_main { height: 1470px; }
+	#wb_footer { height: 31px; }
+	body, .wb_sbg { min-width: 992px; min-height: 1771px; }
+	.root { width: 992px; height: 1771px; overflow: visible; min-height: 1771px; }
+	#wb_element_instance32 { left: 0px; top: 170px; min-width: 990px; width: 990px; min-height: 60px; height: 60px; display: block; }
+	#wb_element_instance32 ul { background: transparent none repeat scroll left top; }
+	#wb_element_instance32 .btn-collapser { display: none; }
+	#wb_element_instance32 > ul { display: block; }
+	#wb_element_instance33 { left: 150px; top: 60px; min-width: 210px; width: 210px; min-height: 80px; height: 80px; display: block; }
+	#wb_element_instance34 { left: 0px; top: 10px; min-width: 140px; width: 140px; min-height: 140px; height: 140px; display: block; }
+	#wb_element_instance34 img { width: 140px; height: 140px; display: block; position: static; left: 0px; top: 0px; }
+	#wb_element_instance35 { left: 20px; top: 7px; min-width: 481px; width: 481px; min-height: 24px; height: 24px; display: block; }
+	#wb_element_instance36 { left: 0px; top: 0px; min-width: 990px; width: 990px; min-height: 1470px; height: 1470px; display: block; }
+	#wb_element_instance36 > div.wb_shp { width: 990px; height: 1470px; }
+	#wb_element_instance37 { left: 20px; top: 10px; min-width: 950px; width: 950px; min-height: 1409px; height: 1409px; display: block; }
+	#wb_element_instance38 { left: 20px; top: 1230px; min-width: 950px; width: 950px; min-height: 60px; height: 60px; display: block; }
+	#wb_element_instance39 { left: 20px; top: 689px; min-width: 950px; width: 950px; min-height: 60px; height: 60px; display: block; }
+	#wb_element_instance40 { left: 20px; top: 96px; min-width: 950px; width: 950px; min-height: 50px; height: 50px; display: block; }
+	#wb_element_instance41 { left: 0px; top: 1490px; display: block; }
+	#wb_element_instance42 { left: 0px; top: 51px; display: block; }
+}
+
+@media (min-width: 1200px) {
+}
