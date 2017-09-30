@@ -48,5 +48,5 @@ Then push your changes back up to Github.
 
 When changes are committed to the `master` branch on Github, a [webhook](https://developer.github.com/webhooks/) 
 on this repo notifies my web server.  My web server issues a `git pull` on 
-[chaos.thriii.com](http://chaos.thriii.com/)'s [DocumentRoot](http://httpd.apache.org/docs/2.2/mod/core.html#documentroot), 
+[guildsofchaos.com](http://www.guildsofchaos.com/)'s [DocumentRoot](http://httpd.apache.org/docs/2.2/mod/core.html#documentroot), 
 and _voila_, the web site is updated.
